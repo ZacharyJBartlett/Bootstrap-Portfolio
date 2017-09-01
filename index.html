@@ -11,6 +11,7 @@
 <body>
     <div>
         <img src="assets/images/background.jpeg" alt="bearded">
+        <audio id="Welcome" src="assets/audio/Welcome.mp3"></audio>
     </div>
     <script>
         $(document).ready(function() {
@@ -20,7 +21,7 @@
             audioElement.setAttribute("assets/audio/Welcome.mp3");
 
             $(document).ready(function() {
-                audioElement.play();
+                $("#Welcome").get(0).play();
             });
         });
     </script>
