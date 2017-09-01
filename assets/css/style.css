@@ -12,14 +12,20 @@ body {
     width: 100%;
 }
 
-#left {
-    width: 200px;
-    height: 100px;
+.circle {
+    border-radius: 50%;
 }
 
-#right {
+.left {
     width: 200px;
-    height: 100px;
+    height: 200px;
+    background-color: #2db98a;
+}
+
+.right {
+    width: 200px;
+    height: 200px;
+    background-color: #26b4a4;
 }
 
 @media screen and (max-width: 768px) {
