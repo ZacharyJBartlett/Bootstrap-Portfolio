@@ -12,6 +12,16 @@ body {
     width: 100%;
 }
 
+#left {
+    width: 200px;
+    height: 100px;
+}
+
+#right {
+    width: 200px;
+    height: 100px;
+}
+
 @media screen and (max-width: 768px) {
     .container {
         width: 90%;
