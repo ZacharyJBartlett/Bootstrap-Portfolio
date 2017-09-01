@@ -11,19 +11,19 @@
 <body>
     <div>
         <img src="assets/images/background.jpeg" alt="bearded">
+    </div>
+    <script>
+        $(document).ready(function() {
 
-        <script>
+            // Gets Link for Theme Song
+            var audioElement = document.createElement("audio");
+            audioElement.setAttribute("src", "assets/Welcome.m4a");
+
             $(document).ready(function() {
-
-                // Gets Link for Theme Song
-                var audioElement = document.createElement("audio");
-                audioElement.setAttribute("src", "assets/Welcome.m4a");
-
-                $(document).ready(function() {
-                    audioElement.play();
-                });
+                audioElement.play();
             });
-        </script>
+        });
+    </script>
 </body>
 
 </html>
