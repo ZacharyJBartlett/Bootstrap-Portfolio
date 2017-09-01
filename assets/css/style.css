@@ -18,9 +18,9 @@ body {
     height: 600px;
 }
 
-img {
-    margin-left: 60%;
-    margin-right: 40%;
+#person {
+    margin-left: 50%;
+    margin-right: 50%;
 }
 
 .container {
