@@ -4,5 +4,16 @@ basic portfolio introducing myself
 
 # Includes
 
-audio files 
-play through mini game in the about me section for viewers to learn more about me.
+audio file on landing page. 
+
+# index.html 
+
+contains 2 links to separate pages 
+
+# work.html
+
+contains work examples that I believe best fit what I want to work on.
+
+# aboutMe.html
+
+contains my life story. (shortened of course)
