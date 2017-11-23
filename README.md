@@ -1,19 +1,9 @@
-# Bootstrap-Portfolio
+# Portfolio
 
-basic portfolio introducing myself 
+Front and back design portfolio with work examples and brief history of my time in industry.
 
-# Includes
+# Tech
 
-audio file on landing page. 
-
-# index.html 
-
-contains 2 links to separate pages 
-
-# work.html
-
-contains work examples that I believe best fit what I want to work on.
-
-# aboutMe.html
-
-contains my life story. (shortened of course)
+CSS 
+JAVASCRIPT
+FLIPCARD.js
