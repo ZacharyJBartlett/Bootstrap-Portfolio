@@ -1,9 +1,17 @@
-/* * {
+* {
     box-sizing: border-box;
-} */
+}
 
-#container {
-    background-size: cover;
+html {
+    height: 100%;
+}
+
+body {
+    background: linear-gradient(45deg, #23f96d, #8c0df4);
+    width: 100%;
+    min-height: 100%;
+    border-style: ridge;
+    border-width: 45px;
 }
 
 @media screen and (max-width: 768px) {
